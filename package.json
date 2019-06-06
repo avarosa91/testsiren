@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
-    "url": "https://gitlab.com/julia-ivanova/testsiren",
+    "url": "https://github.com/avarosa91/testsiren",
     "type": "git"
   },
   "license": "MIT",
