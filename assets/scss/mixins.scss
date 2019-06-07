@@ -5,3 +5,9 @@
   -o-transition: $time ease-in-out;
   transition: $time ease-in-out;
 }
+
+@mixin shadow($param) {
+  -webkit-box-shadow: $param ;
+  -moz-box-shadow: $param;
+  box-shadow: $param;
+}
